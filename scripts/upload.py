@@ -126,11 +126,14 @@ def main():
 
     print(f"[upload] Success! Video ID: {result}")
 
-    cta_scene = next(
-        (s for s in manifest.get("scenes", []) if s.get("type") == "cta"),
-        None,
-    )
-    comment_text = cta_scene.get("data", {}).get("comment") if cta_scene else None
+    # Comment lives in top-level cta block; fall back to cta scene data for older manifests
+    comment_text = manifest.get("cta", {}).get("comment")
+    if not comment_text:
+        cta_scene = next(
+            (s for s in manifest.get("scenes", []) if s.get("type") == "cta"),
+            None,
+        )
+        comment_text = cta_scene.get("data", {}).get("comment") if cta_scene else None
     if comment_text and publish_at:
         try:
             dispatch_comment(result, comment_text, publish_at, manifest_path)
