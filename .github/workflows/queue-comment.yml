@@ -1,0 +1,38 @@
+name: Queue Pinned Comment
+
+on:
+  repository_dispatch:
+    types: [queue-comment]
+
+jobs:
+  queue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Append to pending_comments.json
+        run: |
+          python - <<'EOF'
+          import json, os
+          from pathlib import Path
+
+          path = Path("output/pending_comments.json")
+          pending = json.loads(path.read_text()) if path.exists() else []
+          pending.append({
+              "video_id": "${{ github.event.client_payload.video_id }}",
+              "comment": "${{ github.event.client_payload.comment }}",
+              "publish_at": "${{ github.event.client_payload.publish_at }}",
+              "manifest": "${{ github.event.client_payload.manifest }}",
+          })
+          path.write_text(json.dumps(pending, indent=2))
+          print(f"Queued: ${{ github.event.client_payload.video_id }} for ${{ github.event.client_payload.publish_at }}")
+          EOF
+
+      - name: Commit updated pending_comments.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/pending_comments.json
+          git diff --cached --quiet || git commit -m "chore: queue comment for ${{ github.event.client_payload.video_id }}"
+          git push
