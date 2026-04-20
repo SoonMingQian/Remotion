@@ -1,0 +1,36 @@
+name: Post Pinned Comment
+
+on:
+  schedule:
+    - cron: "10 9 * * *"   # 9:10 AM GMT — after AM publish slot
+    - cron: "10 18 * * *"  # 6:10 PM GMT — after PM publish slot
+  workflow_dispatch:        # allow manual trigger for testing
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib python-dotenv
+
+      - name: Post pending comments
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: python scripts/post_comment.py
+
+      - name: Commit updated pending_comments.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/pending_comments.json
+          git diff --cached --quiet || git commit -m "chore: clear posted comments"
+          git push
