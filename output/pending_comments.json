@@ -4,5 +4,11 @@
     "comment": "What's your daily Claude Code spend right now? \ud83d\udc47",
     "publish_at": "2026-04-22T09:00:00Z",
     "manifest": "claude-code-cost-2026-04-22.json"
+  },
+  {
+    "video_id": "https://www.youtube.com/shorts/YcyvIrJDRZw",
+    "comment": "Are you still parsing Claude's output manually? \ud83d\udc47",
+    "publish_at": "2026-04-22T18:00:00Z",
+    "manifest": "claude-api-json-2026-04-22.json"
   }
 ]
