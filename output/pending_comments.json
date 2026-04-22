@@ -1,13 +1,19 @@
 [
   {
-    "video_id": "https://www.youtube.com/shorts/7jjDUZjpdLo",
-    "comment": "What's your daily Claude Code spend right now? \ud83d\udc47",
+    "video_id": "70omBXQncXU",
+    "comment": "What's the first UI you'd build with Claude? 👇",
+    "publish_at": "2026-04-21T09:00:00Z",
+    "manifest": ""
+  },
+  {
+    "video_id": "7jjDUZjpdLo",
+    "comment": "What's your daily Claude Code spend right now? 👇",
     "publish_at": "2026-04-22T09:00:00Z",
     "manifest": "claude-code-cost-2026-04-22.json"
   },
   {
-    "video_id": "https://www.youtube.com/shorts/YcyvIrJDRZw",
-    "comment": "Are you still parsing Claude's output manually? \ud83d\udc47",
+    "video_id": "YcyvIrJDRZw",
+    "comment": "Are you still parsing Claude's output manually? 👇",
     "publish_at": "2026-04-22T18:00:00Z",
     "manifest": "claude-api-json-2026-04-22.json"
   }
