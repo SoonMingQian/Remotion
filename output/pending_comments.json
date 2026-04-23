@@ -1,20 +1,44 @@
 [
   {
-    "video_id": "https://www.youtube.com/shorts/jZG1hiberwk",
-    "comment": "Are you still restarting sessions manually? \ud83d\udc47",
+    "video_id": "70omBXQncXU",
+    "comment": "What's the first UI you'd build with Claude? 👇",
+    "publish_at": "2026-04-21T09:00:00Z",
+    "manifest": ""
+  },
+  {
+    "video_id": "7jjDUZjpdLo",
+    "comment": "What's your daily Claude Code spend right now? 👇",
+    "publish_at": "2026-04-22T09:00:00Z",
+    "manifest": "claude-code-cost-2026-04-22.json"
+  },
+  {
+    "video_id": "YcyvIrJDRZw",
+    "comment": "Are you still parsing Claude's output manually? 👇",
+    "publish_at": "2026-04-22T18:00:00Z",
+    "manifest": "claude-api-json-2026-04-22.json"
+  },
+  {
+    "video_id": "jZG1hiberwk",
+    "comment": "Are you still restarting sessions manually? 👇",
     "publish_at": "2026-04-23T09:00:00Z",
     "manifest": "claude-code-autocompact-2026-04-23.json"
   },
   {
-    "video_id": "https://www.youtube.com/shorts/OKlOq05iaeo",
-    "comment": "Are you shipping Claude UI straight to prod? \ud83d\udc47",
+    "video_id": "OKlOq05iaeo",
+    "comment": "Are you shipping Claude UI straight to prod? 👇",
     "publish_at": "2026-04-23T18:00:00Z",
     "manifest": "claude-ui-prod-reality-2026-04-23.json"
   },
   {
-    "video_id": "https://www.youtube.com/shorts/p7KV6Udz_W8",
-    "comment": "Are you still running everything through one Claude Code session? \ud83d\udc47",
+    "video_id": "p7KV6Udz_W8",
+    "comment": "Are you still running everything through one Claude Code session? 👇",
     "publish_at": "2026-04-24T09:00:00Z",
     "manifest": "claude-code-agent-os-2026-04-24.json"
+  },
+  {
+    "video_id": "L2sITKjtFM4",
+    "comment": "Which model are you defaulting to for everything? 👇",
+    "publish_at": "2026-04-24T18:00:00Z",
+    "manifest": "opus-4-7-developer-guide-2026-04-24.json"
   }
 ]

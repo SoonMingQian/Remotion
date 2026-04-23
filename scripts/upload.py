@@ -124,7 +124,16 @@ def main():
         print("[upload] Upload failed or returned no ID")
         sys.exit(1)
 
+    # upload_video returns a full URL — extract bare ID
+    video_id = result.rstrip("/").split("/")[-1]
+    result = video_id
+
     print(f"[upload] Success! Video ID: {result}")
+
+    # Write video_id back to manifest so it's traceable
+    manifest["video_id"] = result
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump(manifest, f, indent=2, ensure_ascii=False)
 
     # Comment lives in top-level cta block; fall back to cta scene data for older manifests
     comment_text = manifest.get("cta", {}).get("comment")
