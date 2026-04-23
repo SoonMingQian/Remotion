@@ -10,5 +10,11 @@
     "comment": "Are you shipping Claude UI straight to prod? \ud83d\udc47",
     "publish_at": "2026-04-23T18:00:00Z",
     "manifest": "claude-ui-prod-reality-2026-04-23.json"
+  },
+  {
+    "video_id": "https://www.youtube.com/shorts/p7KV6Udz_W8",
+    "comment": "Are you still running everything through one Claude Code session? \ud83d\udc47",
+    "publish_at": "2026-04-24T09:00:00Z",
+    "manifest": "claude-code-agent-os-2026-04-24.json"
   }
 ]
