@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "video_id": "jjdJ_iFom8M",
+    "comment": "What's the hardest bug you've thrown at an LLM? \ud83d\udc47",
+    "publish_at": "2026-04-25T09:00:00Z",
+    "manifest": "claude-extended-thinking-2026-04-24.json"
+  }
+]
