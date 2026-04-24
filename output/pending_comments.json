@@ -4,5 +4,11 @@
     "comment": "What's the hardest bug you've thrown at an LLM? \ud83d\udc47",
     "publish_at": "2026-04-25T09:00:00Z",
     "manifest": "claude-extended-thinking-2026-04-24.json"
+  },
+  {
+    "video_id": "z302Thp4aBw",
+    "comment": "Is your Claude Code scoped \u2014 or running fully open? \ud83d\udc47",
+    "publish_at": "2026-04-25T18:00:00Z",
+    "manifest": "claude-code-permissions-2026-04-24.json"
   }
 ]
