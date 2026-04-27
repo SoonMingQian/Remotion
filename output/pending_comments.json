@@ -1,8 +1,1 @@
-[
-  {
-    "video_id": "8iWOyBdZ1gg",
-    "comment": "Run: git log --oneline -- HERMES.md \u2014 if you see more than 2-3 entries, your credits are leaking. Fix: echo 'HERMES.md' >> .gitignore",
-    "publish_at": "2026-04-27T18:00:00Z",
-    "manifest": "hermes-md-billing-trap-2026-04-27.json"
-  }
-]
+[]
