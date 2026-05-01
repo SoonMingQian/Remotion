@@ -4,11 +4,5 @@
     "comment": "How many tasks deep do you stack when Claude Code is running? Drop your workflow below \ud83d\udc47",
     "publish_at": "2026-05-01T18:00:00Z",
     "manifest": "async-developer-workflow-claude-code-2026-05-01.json"
-  },
-  {
-    "video_id": "O_DBvBVJ3wI",
-    "comment": "Would you self-host Claude's UI for data ownership, or is Anthropic's web interface worth the subscription?",
-    "publish_at": "2026-05-01T09:00:00Z",
-    "manifest": "open-source-claude-ui-2026-05-01.json"
   }
 ]
