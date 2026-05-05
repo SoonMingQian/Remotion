@@ -4,5 +4,11 @@
     "comment": "Are you self-hosting because it's genuinely cheaper, or because it sounds free? Drop your setup below \ud83d\udc47",
     "publish_at": "2026-05-05T18:00:00Z",
     "manifest": "self-hosting-ai-overrated-2026-05-04.json"
+  },
+  {
+    "video_id": "LepXIOfKWsA",
+    "comment": "What's the first decision you'd put in your Claude memory file \u2014 a tech choice, an architectural rule, or something else?",
+    "publish_at": "2026-05-06T09:00:00Z",
+    "manifest": "claude-persistent-memory-2026-05-06.json"
   }
 ]
