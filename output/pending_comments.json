@@ -1,11 +1,5 @@
 [
   {
-    "video_id": "cG6woXNMGds",
-    "comment": "Run: monthly API cost \u00f7 $72 = your break-even requests/day. Over 30K on Haiku? Self-host. On GPT-4o-mini? API wins until 200K.",
-    "publish_at": "2026-05-05T09:00:00Z",
-    "manifest": "mistral-self-host-math-2026-05-05.json"
-  },
-  {
     "video_id": "lFu5MpDDsy8",
     "comment": "Are you self-hosting because it's genuinely cheaper, or because it sounds free? Drop your setup below \ud83d\udc47",
     "publish_at": "2026-05-05T18:00:00Z",
