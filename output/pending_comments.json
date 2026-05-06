@@ -1,11 +1,5 @@
 [
   {
-    "video_id": "LepXIOfKWsA",
-    "comment": "What's the first decision you'd put in your Claude memory file \u2014 a tech choice, an architectural rule, or something else?",
-    "publish_at": "2026-05-06T09:00:00Z",
-    "manifest": "claude-persistent-memory-2026-05-06.json"
-  },
-  {
     "video_id": "5QrbCzO285M",
     "comment": "Have you shipped vibe-coded code to production? What broke first?",
     "publish_at": "2026-05-06T18:00:00Z",
