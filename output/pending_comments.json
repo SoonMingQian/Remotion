@@ -10,5 +10,11 @@
     "comment": "Did you strip the em dashes, or did Claude's voice ship straight to your team?",
     "publish_at": "2026-05-07T09:00:00Z",
     "manifest": "ai-slop-tax-2026-05-07.json"
+  },
+  {
+    "video_id": "JeFjzK79UkM",
+    "comment": "Which of those three lanes are you closest to right now? Distributed systems, security, or applied research engineering?",
+    "publish_at": "2026-05-07T18:00:00Z",
+    "manifest": "anthropic-2027-contradiction-2026-05-07.json"
   }
 ]
