@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "video_id": "xaptz23otH4",
+    "comment": "Has a Microsoft default ever silently changed something in your repo \u2014 and how did you catch it before it hit code review?",
+    "publish_at": "2026-05-08T09:00:00Z",
+    "manifest": "vscode-ai-coauthor-2026-05-08.json"
+  }
+]
