@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "video_id": "vdkygXup-SI",
+    "comment": "Are you running memory-level monitoring or just trusting file checksums? CERT/CC has the full workaround at kb.cert.org.",
+    "publish_at": "2026-05-11T09:00:00Z",
+    "manifest": "linux-copyfile-exploit-2026-05-11.json"
+  }
+]
