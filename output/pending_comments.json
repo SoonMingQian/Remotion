@@ -1,11 +1,5 @@
 [
   {
-    "video_id": "NQL5osC4S3s",
-    "comment": "What's one Anthropic announcement that actually changed your workflow? \ud83d\udc47",
-    "publish_at": "2026-05-11T18:00:00Z",
-    "manifest": "claude-mythos-hype-2026-05-11.json"
-  },
-  {
     "video_id": "EnYjtSV4qBw",
     "comment": "Which automations go dark when your laptop closes? Cron jobs, monitors, chat bots \u2014 those belong on a server. Are you already running Hermes or something like it, or is everything still local?",
     "publish_at": "2026-05-12T09:00:00Z",
