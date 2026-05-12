@@ -1,11 +1,5 @@
 [
   {
-    "video_id": "EnYjtSV4qBw",
-    "comment": "Which automations go dark when your laptop closes? Cron jobs, monitors, chat bots \u2014 those belong on a server. Are you already running Hermes or something like it, or is everything still local?",
-    "publish_at": "2026-05-12T09:00:00Z",
-    "manifest": "hermes-vs-claude-code-2026-05-12.json"
-  },
-  {
     "video_id": "iXI5FKdTFlQ",
     "comment": "The Sakana Conductor routes GPT-5, Claude + Gemini as workers \u2014 83.9% LiveCodeBench. Fugu beta is live with OpenAI-format API.",
     "publish_at": "2026-05-12T18:00:00Z",
