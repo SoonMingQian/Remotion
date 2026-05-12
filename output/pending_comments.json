@@ -4,5 +4,11 @@
     "comment": "Which secret would hurt most if your CI runner leaked it: cloud keys, GitHub tokens, npm tokens, SSH keys, Kubernetes creds, or Vault access?",
     "publish_at": "2026-05-13T18:00:00Z",
     "manifest": "mass-npm-supply-chain-attack-2026-05-13.json"
+  },
+  {
+    "video_id": "3rF8NKftbCA",
+    "comment": "What's your most fragile workflow? Mine was a 2-week hire onboarding agent.",
+    "publish_at": "2026-05-13T09:00:00Z",
+    "manifest": "build-agents-that-do-not-forget-mid-workflow-2026-05-13.json"
   }
 ]
