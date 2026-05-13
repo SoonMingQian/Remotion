@@ -4,5 +4,11 @@
     "comment": "Which secret would hurt most if your CI runner leaked it: cloud keys, GitHub tokens, npm tokens, SSH keys, Kubernetes creds, or Vault access?",
     "publish_at": "2026-05-13T18:00:00Z",
     "manifest": "mass-npm-supply-chain-attack-2026-05-13.json"
+  },
+  {
+    "video_id": "urB21ldDxnA",
+    "comment": "Windows Codex setup tradeoff: elevated sandbox if admin setup is available, unelevated only as a weaker fallback, and WSL2 when the repo needs Linux-native behavior. What would you allow by default?",
+    "publish_at": "2026-05-14T09:00:00Z",
+    "manifest": "codex-windows-sandbox-setup-2026-05-14.json"
   }
 ]
