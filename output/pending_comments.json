@@ -4,5 +4,11 @@
     "comment": "Which secret would hurt most if your CI runner leaked it: cloud keys, GitHub tokens, npm tokens, SSH keys, Kubernetes creds, or Vault access?",
     "publish_at": "2026-05-13T18:00:00Z",
     "manifest": "mass-npm-supply-chain-attack-2026-05-13.json"
+  },
+  {
+    "video_id": "BbXp8FBPCe0",
+    "comment": "Are you still using prompt rules to control your agents, or have you moved to middleware? Drop your setup below.",
+    "publish_at": "2026-05-15T07:00:00Z",
+    "manifest": "genkit-middleware-stop-letting-agents-call-tools-raw-2026-05-15.json"
   }
 ]
