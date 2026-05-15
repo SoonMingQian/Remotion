@@ -10,5 +10,11 @@
     "comment": "TencentDB Agent Memory: MIT, local SQLite, zero external APIs \u2014 61% token cut on OpenClaw WideSearch benchmarks",
     "publish_at": "2026-05-16T16:00:00Z",
     "manifest": "tencentdb-agent-memory-2026-05-15.json"
+  },
+  {
+    "video_id": "pVnLliVibnY",
+    "comment": "Are you routing any of your easier tasks to a free model, or does everything still go through Claude?",
+    "publish_at": "2026-05-16T07:00:00Z",
+    "manifest": "opencode-qwen-free-2026-05-16.json"
   }
 ]
