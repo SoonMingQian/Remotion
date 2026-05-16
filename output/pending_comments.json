@@ -10,5 +10,11 @@
     "comment": "image-blaster on GitHub (github.com/neilsonnn/image-blaster) \u2014 what tools are you using for 3D prototyping? Drop a link below.",
     "publish_at": "2026-05-17T16:00:00Z",
     "manifest": "image-blaster-3d-world-2026-05-17.json"
+  },
+  {
+    "video_id": "gqINTmOpevM",
+    "comment": "What local model should I benchmark next?",
+    "publish_at": "2026-05-17T07:00:00Z",
+    "manifest": "speed-up-local-qwen-before-buying-a-gpu-2026-05-17.json"
   }
 ]
