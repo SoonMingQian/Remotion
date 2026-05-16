@@ -16,5 +16,11 @@
     "comment": "What local model should I benchmark next?",
     "publish_at": "2026-05-17T07:00:00Z",
     "manifest": "speed-up-local-qwen-before-buying-a-gpu-2026-05-17.json"
+  },
+  {
+    "video_id": "DDoFQmf-tq8",
+    "comment": "What do you ask for before you review an agent-generated PR?",
+    "publish_at": "2026-05-17T16:00:00Z",
+    "manifest": "reviewing-ai-generated-pull-requests-in-2026-2026-05-17.json"
   }
 ]
