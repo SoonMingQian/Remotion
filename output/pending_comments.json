@@ -6,12 +6,6 @@
     "manifest": "mass-npm-supply-chain-attack-2026-05-13.json"
   },
   {
-    "video_id": "VI2-QMM5mNM",
-    "comment": "TencentDB Agent Memory: MIT, local SQLite, zero external APIs \u2014 61% token cut on OpenClaw WideSearch benchmarks",
-    "publish_at": "2026-05-16T16:00:00Z",
-    "manifest": "tencentdb-agent-memory-2026-05-15.json"
-  },
-  {
     "video_id": "meVN7fFRCu0",
     "comment": "image-blaster on GitHub (github.com/neilsonnn/image-blaster) \u2014 what tools are you using for 3D prototyping? Drop a link below.",
     "publish_at": "2026-05-17T16:00:00Z",
