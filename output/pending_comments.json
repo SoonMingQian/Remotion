@@ -6,18 +6,6 @@
     "manifest": "mass-npm-supply-chain-attack-2026-05-13.json"
   },
   {
-    "video_id": "meVN7fFRCu0",
-    "comment": "image-blaster on GitHub (github.com/neilsonnn/image-blaster) \u2014 what tools are you using for 3D prototyping? Drop a link below.",
-    "publish_at": "2026-05-17T16:00:00Z",
-    "manifest": "image-blaster-3d-world-2026-05-17.json"
-  },
-  {
-    "video_id": "DDoFQmf-tq8",
-    "comment": "What do you ask for before you review an agent-generated PR?",
-    "publish_at": "2026-05-17T16:00:00Z",
-    "manifest": "reviewing-ai-generated-pull-requests-in-2026-2026-05-17.json"
-  },
-  {
     "video_id": "QYY4sH6qYfg",
     "comment": "Pre-submit AI audit: verify citations, open artifacts, search for model meta-text, and assign one final-pass owner before arXiv sees it.",
     "publish_at": "2026-05-18T16:00:00Z",
