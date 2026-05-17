@@ -10,5 +10,11 @@
     "comment": "Pre-submit AI audit: verify citations, open artifacts, search for model meta-text, and assign one final-pass owner before arXiv sees it.",
     "publish_at": "2026-05-18T16:00:00Z",
     "manifest": "check-ai-written-citations-before-arxiv-checks-them-2026-05-18.json"
+  },
+  {
+    "video_id": "pZGVNqYmcnM",
+    "comment": "Which small frontend task would you test locally first?",
+    "publish_at": "2026-05-18T07:00:00Z",
+    "manifest": "when-local-qwen-is-enough-for-ui-animation-code-2026-05-18.json"
   }
 ]
