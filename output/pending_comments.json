@@ -16,5 +16,11 @@
     "comment": "What do you ask for before you review an agent-generated PR?",
     "publish_at": "2026-05-17T16:00:00Z",
     "manifest": "reviewing-ai-generated-pull-requests-in-2026-2026-05-17.json"
+  },
+  {
+    "video_id": "QYY4sH6qYfg",
+    "comment": "Pre-submit AI audit: verify citations, open artifacts, search for model meta-text, and assign one final-pass owner before arXiv sees it.",
+    "publish_at": "2026-05-18T16:00:00Z",
+    "manifest": "check-ai-written-citations-before-arxiv-checks-them-2026-05-18.json"
   }
 ]
