@@ -10,5 +10,11 @@
     "comment": "What hard stop do you put on AI research agents: source count, turn count, or spend limit?",
     "publish_at": "2026-05-19T07:00:00Z",
     "manifest": "stop-claude-burning-hours-on-empty-research-2026-05-18.json"
+  },
+  {
+    "video_id": "sExRH6yHmSg",
+    "comment": "Would you trust a small local coding agent for file edits if the scaffold had tests and budget limits?",
+    "publish_at": "2026-05-19T16:00:00Z",
+    "manifest": "4b-coding-agent-scaffolds-beat-bigger-models-2026-05-18.json"
   }
 ]
