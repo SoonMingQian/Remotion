@@ -4,11 +4,5 @@
     "comment": "Which secret would hurt most if your CI runner leaked it: cloud keys, GitHub tokens, npm tokens, SSH keys, Kubernetes creds, or Vault access?",
     "publish_at": "2026-05-13T18:00:00Z",
     "manifest": "mass-npm-supply-chain-attack-2026-05-13.json"
-  },
-  {
-    "video_id": "sExRH6yHmSg",
-    "comment": "Would you trust a small local coding agent for file edits if the scaffold had tests and budget limits?",
-    "publish_at": "2026-05-19T16:00:00Z",
-    "manifest": "4b-coding-agent-scaffolds-beat-bigger-models-2026-05-18.json"
   }
 ]
