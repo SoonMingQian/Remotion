@@ -10,5 +10,11 @@
     "comment": "Would you trust a 96-agent run, or cap it at four guarded lanes?",
     "publish_at": "2026-05-20T07:00:00Z",
     "manifest": "the-96-agent-os-build-developers-can-steal-2026-05-19.json"
+  },
+  {
+    "video_id": "8YQTWaDRFhA",
+    "comment": "Which one would you cancel first?",
+    "publish_at": "2026-05-20T16:00:00Z",
+    "manifest": "claude-pro-vs-chatgpt-plus-keep-one-2026-05-20.json"
   }
 ]
