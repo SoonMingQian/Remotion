@@ -4,5 +4,11 @@
     "comment": "Which secret would hurt most if your CI runner leaked it: cloud keys, GitHub tokens, npm tokens, SSH keys, Kubernetes creds, or Vault access?",
     "publish_at": "2026-05-13T18:00:00Z",
     "manifest": "mass-npm-supply-chain-attack-2026-05-13.json"
+  },
+  {
+    "video_id": "g8Zyhi9ZXEE",
+    "comment": "Which Claude Code course would you take first?",
+    "publish_at": "2026-05-23T07:00:00Z",
+    "manifest": "free-claude-code-training-take-these-first-2026-05-22.json"
   }
 ]
