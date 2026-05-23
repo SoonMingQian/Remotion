@@ -4,11 +4,5 @@
     "comment": "Which secret would hurt most if your CI runner leaked it: cloud keys, GitHub tokens, npm tokens, SSH keys, Kubernetes creds, or Vault access?",
     "publish_at": "2026-05-13T18:00:00Z",
     "manifest": "mass-npm-supply-chain-attack-2026-05-13.json"
-  },
-  {
-    "video_id": "g4yPoU2T2gc",
-    "comment": "Which benchmark do you check before downloading a coding model?",
-    "publish_at": "2026-05-23T16:00:00Z",
-    "manifest": "huggingface-benchmark-model-size-filter-2026-05-22.json"
   }
 ]
