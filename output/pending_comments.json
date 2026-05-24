@@ -4,5 +4,11 @@
     "comment": "Which secret would hurt most if your CI runner leaked it: cloud keys, GitHub tokens, npm tokens, SSH keys, Kubernetes creds, or Vault access?",
     "publish_at": "2026-05-13T18:00:00Z",
     "manifest": "mass-npm-supply-chain-attack-2026-05-13.json"
+  },
+  {
+    "video_id": "yQeixj2PYPw",
+    "comment": "Would you rotate secrets first, or prove the workflow actually exposed them?",
+    "publish_at": "2026-05-25T07:00:00Z",
+    "manifest": "megalodon-github-attack-audit-these-workflow-files-2026-05-24.json"
   }
 ]
