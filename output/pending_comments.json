@@ -10,5 +10,11 @@
     "comment": "Which workload would you move first: extraction, summaries, evals, or batch code review?",
     "publish_at": "2026-05-25T16:00:00Z",
     "manifest": "deepseek-75-api-price-cut-2026-05-25.json"
+  },
+  {
+    "video_id": "Hi66ZQLhHOM",
+    "comment": "Would your agent stop at $80, or would you only notice at $2,500?",
+    "publish_at": "2026-05-26T16:00:00Z",
+    "manifest": "stop-claude-agents-burning-your-budget-2026-05-25.json"
   }
 ]
