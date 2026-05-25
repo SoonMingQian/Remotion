@@ -16,5 +16,11 @@
     "comment": "Would your agent stop at $80, or would you only notice at $2,500?",
     "publish_at": "2026-05-26T16:00:00Z",
     "manifest": "stop-claude-agents-burning-your-budget-2026-05-25.json"
+  },
+  {
+    "video_id": "dnzxZBp70cg",
+    "comment": "My order: shell tools first, then browser automation, then file movers. What would you remove from voice access first?",
+    "publish_at": "2026-05-26T07:00:00Z",
+    "manifest": "stop-hidden-audio-from-prompting-your-ai-agent-2026-05-25.json"
   }
 ]
