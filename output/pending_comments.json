@@ -6,12 +6,6 @@
     "manifest": "mass-npm-supply-chain-attack-2026-05-13.json"
   },
   {
-    "video_id": "yQeixj2PYPw",
-    "comment": "Would you rotate secrets first, or prove the workflow actually exposed them?",
-    "publish_at": "2026-05-25T07:00:00Z",
-    "manifest": "megalodon-github-attack-audit-these-workflow-files-2026-05-24.json"
-  },
-  {
     "video_id": "0uloDUU-3rQ",
     "comment": "Which workload would you move first: extraction, summaries, evals, or batch code review?",
     "publish_at": "2026-05-25T16:00:00Z",
