@@ -10,11 +10,5 @@
     "comment": "Which task would you move into parallel worktrees first?",
     "publish_at": "2026-05-28T16:00:00Z",
     "manifest": "cursor-3-when-to-use-ide-agents-2026-05-27.json"
-  },
-  {
-    "video_id": "DOj_kKRDauU",
-    "comment": "If your company swapped your coding agent tomorrow, which workflow would fail first?",
-    "publish_at": "2026-05-28T07:00:00Z",
-    "manifest": "claude-code-license-risk-build-a-fallback-2026-05-27.json"
   }
 ]
